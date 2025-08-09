@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="imc_2f">IMC: %.2f</string>
+    <string name="cm">%1$d cm</string>
+    <string name="peso">Peso</string>
+    <string name="limpar">Limpar</string>
+    <string name="calcular">Calcular</string>
+    <string name="msg_weight">Digite um peso e altura válidos</string>
+    <string name="msg_height">Preencha todos os campos</string>
+</resources>
